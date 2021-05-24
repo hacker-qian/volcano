@@ -302,3 +302,5 @@ func (pp *predicatesPlugin) OnSessionOpen(ssn *framework.Session) {
 }
 
 func (pp *predicatesPlugin) OnSessionClose(ssn *framework.Session) {}
+
+// add by cci
